@@ -1,0 +1,22 @@
+{
+  "name": "sp500",
+  "version": "0.0.0",
+  "homepage": "https://github.com/frontlinepbs/sp500",
+  "authors": [
+    "chrisamico <eyeseast@gmail.com>"
+  ],
+  "license": "null",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.3",
+    "lazy.js": "~0.4.0",
+    "underscore": "~1.7.0"
+  }
+}
