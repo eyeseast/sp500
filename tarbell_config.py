@@ -32,9 +32,6 @@ S3_BUCKETS = {
     # Provide target -> s3 url pairs, such as:
     #     "mytarget": "mys3url.bucket.url/some/path"
     # then use tarbell publish mytarget to publish to it
-    
-    "production": "apps.frontline.org/sp500",
-    "staging": "frontline-apps/sp500",
 }
 
 # Default template variables
